@@ -10,6 +10,10 @@ Ví dụ:
 
 ---
 
+## Một số hình ảnh về kết quả của model
+
+---
+
 ##  Mô hình sử dụng: `BLIP (Bootstrapped Language-Image Pretraining)`
 
 - Được phát triển bởi Salesforce.
