@@ -12,6 +12,11 @@ Ví dụ:
 
 ## Một số hình ảnh về kết quả của model
 
+<img src="https://drive.google.com/uc?export=view&id=1n5U27Z9qcGygFlRRfWeJITBfgIMsDn32" width="300"/> <img src="https://drive.google.com/uc?export=view&id=1S_NEfTCOW0m8v9DHyjxVhTRwoeNMOv2X" width="360"/>
+<img src="https://drive.google.com/uc?export=view&id=1Iob5sjQrjk6lndjMH5dF1WBRjPpOoUtf" width="270"/>
+
+
+
 ---
 
 ##  Mô hình sử dụng: `BLIP (Bootstrapped Language-Image Pretraining)`
